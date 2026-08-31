@@ -1,5 +1,12 @@
 # Synth MIDI
 
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-100%25%20Concluído-success)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-0d1117?style=flat&logo=python&logoColor=white)
+![MIDI](https://img.shields.io/badge/MIDI-Supported-orange)
+
 Sintetizador simples controlado por teclado MIDI, desenvolvido em Python. O projeto recebe eventos MIDI, converte as notas para frequências e gera ondas sonoras digitalmente utilizando NumPy e Pygame.
 
 ## Sobre o Projeto
