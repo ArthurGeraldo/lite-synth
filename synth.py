@@ -1,13 +1,6 @@
-# Importa NumPy (usado para matemática pesada e gerar ondas sonoras)
 import numpy as np
-
-# Importa pygame (usado para áudio e mixer de som)
 import pygame
-
-# Importa mido (usado para ler MIDI do teclado MPK Mini)
 import mido
-
-# Importa threading (permite rodar MIDI e áudio ao mesmo tempo)
 import threading
 
 
